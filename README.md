@@ -1,4 +1,5 @@
 # KanguruStop
-Ilk degisikligi once add to index diyerek localde oturttuk. Sonra originden kirmizi olana sag tiklayip push diyerek maine gonderdik.
-Ikinci degisiklik.
+Ikinci degisiklikte commit and push diyerek local mastera gondermis olduk. Sonra ayni mastera sag tiklayip pushladik. bu sirada master icin sifre olusturduk.
+Ucuncuye geciyoruz.
+
 
